@@ -1,0 +1,236 @@
+@font-face {
+  font-family: "Orbitron";
+  font-style: normal;
+  src: url(https://fonts.googleapis.com/css?family=Orbitron:regular,500,600,700,800,900);
+}
+
+/* NYR LOGO TOP*/
+h3 img {
+  width: 200px;
+  padding-left: 47%;
+  
+}
+
+h1 img {
+  width: 110%;
+  border-image: fill;
+  text-align: center;
+  text-shadow: 1px 3px 3px rgba(196, 196, 196, 0.401);
+}
+
+
+#player-image {
+  width: 1800;
+  display: inline-block;
+}
+
+.hidden {
+  display: none;
+}
+
+/* New York Rangers Roster Lookup*/
+h1 {
+  color: transparent;
+  background: #ff00fb;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 1px 1px 1px rgba(196, 196, 196, 0.401);
+  color: #ff0000;
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 35px;
+  letter-spacing: 5px;
+  word-spacing: 1.5px;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+
+/* Results Label*/
+h2 {
+  color: rgb(255, 0, 0);
+  background: #9dff00;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.401);
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 25px;
+  letter-spacing: 4px;
+  word-spacing: 1.3px;
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  color: #ff0000;
+  text-align: center;
+  text-decoration: underline;
+  margin: -61px; /*moves image menu up or down*/
+  padding-top: -800px;
+  font-weight: bold
+}
+
+
+
+h1 img {
+  width: -970px;
+  border-image: fill
+}
+
+/* Scoreline Bar */
+h4 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+/* Player Default Image Slot*/
+.placeholder {
+  padding-bottom: -950px;
+  margin-top: -145px;
+  padding-left: 955px;
+}
+
+.placeholder img {
+  width: 355px;
+  height: auto;
+}
+
+.playerContainer {
+  display: flex;
+  flex-direction: row;
+  color: rgb(255, 255, 255);
+  justify-content: left;
+  margin-left: 100%;
+  align-items: left;
+}
+
+player-info {
+display: flex;
+flex-wrap: wrap;
+}
+
+/* Player bio info appearing after click*/
+#player-info {
+  flex-basis: fit-content;
+  /* Adjust the percentage as needed */
+  margin-left: 120px;
+  margin-top: -650px;
+  text-align: right;
+  width: 1000px;
+  padding-left: 0px;
+  padding-bottom: 1500px;
+  /* Optional: Add padding for better spacing */
+  font-size: 20px;
+  color: rgb(255, 255, 255); /*Clicked data values*/
+}
+
+/* Stats hover data and clicked data (values only)*/
+#mugshot-menu {
+  display: flex;
+  text-align: center;
+  color: rgb(255, 0, 0); /* stats data (hover)*/
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  letter-spacing: 3px;
+  word-spacing: 1.0px;
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  background-clip: text;
+  line-height: 22px;
+  margin-right: 655px;
+  font-size: 20px;
+  text-shadow: 0px 0px 0px rgba(255, 255, 255, 0.571);
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+/* Search Label Top Left */
+label {
+  text-shadow: 1px 2px 2px rgba(196, 196, 196, 0.401);
+  color: #ff0000;
+  text-align: right;
+  font-size: 17px;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: Impact, Charcoal, sans-serif;
+  padding-inline-start: 1480px;
+}
+
+/* Search Box and Submit Button*/
+#new-search {
+  padding-inline-start: -1600px;
+  outline-color: #fff700;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+/* Player Name Label and text box*/
+label1 {
+  text-shadow: 0px 3px 3px rgba(0, 0, 255, 0.401);
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow';
+  padding-inline-start: -50px;
+}
+
+/* Bio Info Labels*/
+label2 {
+  color: rgb(255, 0, 0);
+  text-align: left;
+  flex-wrap: nowrap;
+  line-height: 15px;
+  font-size: 19px;
+  margin-left: -400px;
+  padding-left: 290px;
+  padding-top: 1205px;
+  font-weight: bold;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+
+h3 {
+  color: #009dff;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.label {
+  font-size: 45px;
+  font-weight: bold;
+  color: #00ff0d;
+}
+
+
+.button {
+  border-radius: 300px
+}
+
+body {
+  background-image: url("//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/1746661.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: red;
+  position: sticky;
+  top: 0;
+  right: 0;
+  bottom: 75%;
+  left: 0;
+}
+
+/*Wallpaper Options
+
+"https://w0.peakpx.com/wallpaper/24/7/HD-wallpaper-new-york-rangers-hockey-ice-hockey-logo-nhl-sport.jpg"
+"https://wallpaperset.com/w/full/0/c/2/24448.jpg"
+C:\\Users\\amann\\Downloads\\833572.png
+C:/Users/amann/Pictures/Saved Pictures/24448.jpg
+
+\\wsl.localhost\Ubuntu\home\amannino\Development\code\phase-1\Phase 1 Final Project\IMAGE Folder\24448.jpg
+*/

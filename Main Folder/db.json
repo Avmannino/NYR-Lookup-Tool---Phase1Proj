@@ -1,0 +1,94 @@
+    {
+        "players": [
+            {
+                "id": 0,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/kreider3.png",
+                "name": "Chris Kreider",
+                "number": "#20",
+                "age": "32",
+                "country": "USA",
+                "position": "Center (C)",
+                "stats": "G:22 A:21 P:43"
+            },
+            {
+                "id": 1,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/panarin3.png",
+                "name": "Artemi Panarin",
+                "number": "#10",
+                "age": "32",
+                "country": "RUS",
+                "position": "Left Wing (LW)",
+                "stats": "G:28 A:34 P:62"
+            },
+            {
+                "id": 2,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/zibanejad3.png",
+                "name": "Mika Zibanejad",
+                "number": "#93",
+                "age": "30",
+                "country": "SWE",
+                "position": "Center (C)",
+                "stats": "G:15 A:29 P:44"
+            },
+            {
+                "id": 3,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/fox3.png",
+                "name": "Adam Fox",
+                "number": "23",
+                "age": "#25",
+                "country": "USA",
+                "position": "Defenseman (D)",
+                "stats": "G:7 A:26 P:33"
+            },
+            {
+                "id": 4,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/shesterkin3.png",
+                "name": "Igor Shesterkin",
+                "number": "#31",
+                "age": "28",
+                "country": "RUS",
+                "position": "Goaltender (G)",
+                "stats":"W-19 L-11 SV%-.901"
+            },
+            {
+                "id": 5,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/bonino3.png",
+                "name": "Nick Bonino",
+                "number": "#12",
+                "age": "35",
+                "country": "USA",
+                "position": "Center (C)",
+                "stats": "G:1 A:4 P:6"
+            },
+            {
+                "id": 6,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/trochek3.png",
+                "name": "Vinny Trochek",
+                "number": "#16",
+                "age": "30",
+                "country": "USA",
+                "position": "Center (C)",
+                "stats": "G:15 A:29 P:44"
+            },
+            {
+                "id": 7,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/kakko3.png",
+                "name": "Kaapo Kakko",
+                "number": "#24",
+                "age": "22",
+                "country": "FIN",
+                "position": "Right Wing (RW)",
+                "stats": "G:3 A:1 P:4"
+            },
+            {
+                "id": 8,
+                "image": "//wsl.localhost/Ubuntu/home/amannino/Development/code/phase-1/Phase 1 Final Project/IMAGE Folder/schneider3.png",
+                "name": "Braden Schneider",
+                "number": "#04",
+                "age": "22",
+                "country": "CAN",
+                "position": "Defenseman (D)",
+                "stats": "G:3 A:9 P:12"
+            }
+         ]
+    }
